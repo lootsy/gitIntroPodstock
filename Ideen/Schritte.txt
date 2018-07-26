@@ -1,0 +1,11 @@
+Indtalliere git
+
+Clone Ultraschall
+
+Clone lernOS
+
+Erstelle Repo
+werfe Docx rein
+pandoc
+hooks
+

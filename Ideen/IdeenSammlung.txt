@@ -14,6 +14,16 @@ https://www.youtube.com/watch?v=Y9XZQO1n_7c
 
 
 
+Learning resources
+
+    Here's a good short basic git tutorial
+    Nice guided tour of git fundamentals
+    A more extensive git course
+    Advanced syntax for GitHub wikis (GitHub Favored Markdown)
+
+gitready.com
+
+
 
 Linus on git
 https://www.youtube.com/watch?v=4XpnKHJAok8
@@ -32,13 +42,31 @@ pdf, docx, pptx
 md
 Quellcode
 
-Geschichte, Linux
-Linus seit 2005
 
-OpenSource GitHub
+Versionsverwaltung
+    Vergleich TimeMachine
 
 Veröffentlichung, Zusammenarbeit...
 verteilt / distributed, dezentraliziert
+
+Geschichte sehen, nachverfolgen
+
+Quellcode / gut Diffbare Dokumente / Text
+    "Trciks" für andere Formate
+    https://github.com/vigente/gerardus/wiki/Integrate-git-diffs-with-word-docx-files
+    https://github.com/xceedsoftware/DocX/blob/master/README.md
+    https://github.com/dolanmiu/docx/blob/master/demo/demo13.js
+    
+
+
+Geschichte, Linux
+Linus seit 2005
+BitKeeper
+
+
+OpenSource GitHub
+
+
 
 UX Designer
 automatisiert jeden morgen, Add, Push, Pull
@@ -54,4 +82,6 @@ kaputt Mach Repo
 merge often, merge early
 
 lernOS
+culture
+
 
