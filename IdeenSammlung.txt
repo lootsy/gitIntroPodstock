@@ -1,0 +1,57 @@
+git Workshop
+
+https://www.sitepoint.com/introduction-to-git-1/
+https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line
+
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+http://cse.unl.edu/~cbourke/gitTutorial.pdf
+
+https://www.atlassian.com/git/tutorials
+
+Learn Git in 20 Minutes
+https://www.youtube.com/watch?v=Y9XZQO1n_7c
+
+
+
+
+Linus on git
+https://www.youtube.com/watch?v=4XpnKHJAok8
+
+
+Git für UX-ler / Designer
+
+https://medium.com/@dfosco/git-for-designers-856c434716e
+http://anitacheng.com/git-for-non-developers#howgit
+
+
+git Intro
+Was ist git?
+Warum will ich das haben?
+pdf, docx, pptx
+md
+Quellcode
+
+Geschichte, Linux
+Linus seit 2005
+
+OpenSource GitHub
+
+Veröffentlichung, Zusammenarbeit...
+verteilt / distributed, dezentraliziert
+
+UX Designer
+automatisiert jeden morgen, Add, Push, Pull
+
+Entwickler
+Ultraschall, StudioLink, Microsoft Docs...
+
+Mercurial, Bazaar
+
+Ultraschal - wie starten
+kaputt Mach Repo
+
+merge often, merge early
+
+lernOS
+
