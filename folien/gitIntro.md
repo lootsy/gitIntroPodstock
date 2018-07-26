@@ -32,7 +32,7 @@
 * fragment highlight-red <!-- .element: class="fragment highlight-red" -->
 * press key down <!-- .element: class="fragment fade-up" -->
 
---
+---
 
 ## More markdown (tables)
 
@@ -44,7 +44,7 @@
 
 ****
 
---
+---
 
 ## More markdown (code)
 
@@ -66,7 +66,7 @@ services:
 
 ```
 
---
+---
 
 ## Local images
 
@@ -84,7 +84,6 @@ or HTML:
 <img src="/images/demo.png">
 
 ```
-
 
 ---
 
