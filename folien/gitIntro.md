@@ -1,6 +1,6 @@
 # Versionskontrolle mit git
 
-## Ultraschall etc.
+## Ultraschall
 
 <!-- .slide: data-transition="zoom" -->
 
@@ -12,6 +12,7 @@
 - Übersicht, Geschichte einzelner Änderungen  
 - "rollback", Kontrolle, alles da, alles erreichbar
 - wann, wer, was, warum...
+- "TimeMachine" für txt
 
 ---
 
@@ -20,22 +21,30 @@
 - [Git](https://de.wikipedia.org/wiki/Git) - _das_ führende (verteilte) VCS
 - verteilt, offline
 - Zusammenarbeit, öffentlich
-- [GitHub](https://de.wikipedia.org/wiki/GitHub), [GitLab](https://de.wikipedia.org/wiki/GitLab), [BitBucket](https://de.wikipedia.org/wiki/Bitbucket)
+- Anbieter / Plattformen: [GitHub](https://de.wikipedia.org/wiki/GitHub), [GitLab](https://de.wikipedia.org/wiki/GitLab), [BitBucket](https://de.wikipedia.org/wiki/Bitbucket)
 
 ---
 
-## More markdown (fragments)
+## git - Stärken & Schwächen
 
-* static text
-* fragment <!-- .element: class="fragment" -->
-* fragment grow <!-- .element: class="fragment grow" -->
-* fragment highlight-red <!-- .element: class="fragment highlight-red" -->
-* press key down <!-- .element: class="fragment fade-up" -->
+- Stärken
+  - reiner Text, txt
+  - jegliche Details
+- Schwächen
+  - binäre Dateien
+  - große / riesige Dateien
+
+- ABER: git ist in Entwicklung
 
 ---
 
-## More markdown (tables)
+## Tipps
 
+- merge often, merge early
+- Hilfen
+  - [_Das_ Buch "Pro Git"](https://git-scm.com/book/en/v2)
+  - gitready.com
+  - [offizielle Webseite](https://git-scm.com/)
 ****
 
 |h1|h2|h3|
