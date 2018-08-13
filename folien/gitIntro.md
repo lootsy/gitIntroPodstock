@@ -25,6 +25,10 @@
 
 ---
 
+## git - Geschichte
+
+---
+
 ## git - Stärken & Schwächen
 
 - Stärken
@@ -38,6 +42,15 @@
 
 ---
 
+## Branches
+
+- völlig getrennte, gleichzeitige Entwicklung
+- getrennte Umgebungen
+- kontrolliertes "Mischen" möglich
+- merge, cherry-pick, rebase 
+
+---
+
 ## Tipps
 
 - merge often, merge early
@@ -45,54 +58,19 @@
   - [_Das_ Buch "Pro Git"](https://git-scm.com/book/en/v2)
   - gitready.com
   - [offizielle Webseite](https://git-scm.com/)
-****
-
-|h1|h2|h3|
-|-|-|-|
-|a|b|c|
-
-****
 
 ---
 
-## More markdown (code)
+## Notizen
 
-```
-version: '2'
-services:
-  slides:
-    image: msoedov/hacker-slides
+- Mercurial, Bazaar
 
-    ports:
-      - 8080:8080
-    volumes:
-      - ./slides:/app/slides
-    restart: always
+Ultraschal - wie starten
+Ultraschall, StudioLink, Microsoft Docs...
+kaputt Mach Repo
 
-    environment:
-     - USER=bob
-     - PASSWORD=pa55
-
-```
-
----
-
-## Local images
-
-![demoPicture](/images/demo.png)
-
-Copy images into slides/images/ & include with MD:
-
-```
-![demoPicture](/images/demo.png)
-
-```
-or HTML:
-
-```
-<img src="/images/demo.png">
-
-```
+lernOS
+culture
 
 ---
 
