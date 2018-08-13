@@ -1,3 +1,9 @@
 Versionskontrolle mit git
 
-Git ist eine Software, die sich für die Versionierung (digitaler) Dokumente einsetzen lässt. Am Beispiel vom Projekt Ultraschall diskutieren wir die Nutzung von git: wie geht das? was brauche ich? warum ist das alles so kompliziert? geht das nicht einfacher / besser / schneller?
+Git ist eine Software, die sich für die Versionierung (digitaler)
+Dokumente einsetzen lässt. Am Beispiel vom Projekt Ultraschall diskutieren
+wir die Nutzung von git:
+
+wie geht das? was brauche ich? warum ist das alles so kompliziert?
+geht das nicht einfacher / besser / schneller?
+
