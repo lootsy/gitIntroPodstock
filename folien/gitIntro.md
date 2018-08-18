@@ -1,6 +1,6 @@
 # Versionskontrolle mit git
 
-## Ultraschall
+## z. B. bei Ultraschall
 
 <!-- .slide: data-transition="zoom" -->
 
@@ -26,6 +26,10 @@
 ---
 
 ## git - Geschichte
+
+- Versionskontrolle für Linux Kernel
+- BitKeeper
+- von Linus Torvalds ab 2005
 
 ---
 
@@ -61,21 +65,8 @@
 
 ---
 
-## Notizen
+## Es gibt auch anderes
 
 - Mercurial, Bazaar
-
-Ultraschal - wie starten
-Ultraschall, StudioLink, Microsoft Docs...
-kaputt Mach Repo
-
-lernOS
-culture
-
----
-
-## Learn more
-
-- [RevealJS Demo/Manual](http://lab.hakim.se/reveal-js)
-- [RevealJS Project/README](https://github.com/hakimel/reveal.js)
-- [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
+- Ultraschall
+- Repos: lernOS, culture
