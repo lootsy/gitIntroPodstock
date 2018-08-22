@@ -4,7 +4,6 @@ git client
 SourceTree
 GitHub Desktop
  
-
 Clone Ultraschall
 
 Clone lernOS

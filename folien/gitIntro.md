@@ -1,4 +1,4 @@
-# Versionskontrolle mit git
+# Versions-kontrolle mit git
 
 ## z. B. bei Ultraschall
 
